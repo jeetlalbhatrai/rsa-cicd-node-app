@@ -28,3 +28,12 @@ SONAR_TOKEN
 Add sonar-project.properties
 
 create .github/workflows/ci.yml
+
+
+Azure--> 
+RG
+container instances..
+image- sonarqube:community
+
+TF code-->
+rsa-sonarqube-tf-code
