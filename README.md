@@ -32,6 +32,7 @@ Setup sonarqube
 
 create token in sonarqube. 
 My Account --> secuitry --> Generate token.
+Create project as --> "nodejs-hello-world"
 
 Create secret in github repository.
 Repository --> Setting --> Secrets & Variables --> Actions --> Resposiory Secrets--> New Respository Secrets
